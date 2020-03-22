@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: PsiloHealth™
 featuredImage: >-
-  https://ucarecdn.com/06e6d40c-69e9-4068-badd-367a05baeb2d/-/crop/1230x1938/0,0/-/preview/
+  https://ucarecdn.com/06e6d40c-69e9-4068-badd-367a05baeb2d/-/crop/1234x2043/0,0/-/preview/
 subtitle: >-
   A team of healthcare professionals, community leaders, and psychonauts whose
   purpose is to provide education, awareness, and policy change regarding the
