@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: PsiloHealth™
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/ec6dd89e-1c60-4a67-9c5c-826d4a8b0e14/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
