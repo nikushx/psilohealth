@@ -17,7 +17,7 @@ meta:
 
 Psilocybin, the precursor to psilocin, is the psychoactive substance found in "magic" mushrooms. Both of these compounds produce psychedelic effects and are found within psilocybin mushrooms. 
 
-Psychedelics (from the Greek, psyche: mind, delos: make visible, reveal) are substances that induce a heightened state of consciousness characterized by a hyperconnected and transpersonal state of being.
+Psychedelics (from the Greek, psyche: mind; delos: make visible, reveal) are substances that induce a heightened state of consciousness characterized by a hyperconnected and transpersonal state of being.
 
 There are over 200 different types of naturally grown psilocybin mushrooms, each varying in different ratios and strengths of psilocybin to psilocin, found all around the world.
 
