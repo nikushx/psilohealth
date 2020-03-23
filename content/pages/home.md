@@ -10,8 +10,8 @@ subtitle: >-
   therapeutic and clinical use of psilocybin.
 accordion: []
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: ''
+  title: PsiloHealth™
 ---
 # **What is Psilocybin?**
 
