@@ -10,7 +10,7 @@ subtitle: >-
   therapeutic and clinical use of psilocybin.
 accordion: []
 meta:
-  description: Home Page
+  description: ''
   title: Home Page
 ---
 # **What is Psilocybin?**
