@@ -7,7 +7,7 @@ featuredImage: >-
 subtitle: >-
   A team of healthcare professionals, community leaders, and psychonauts whose
   purpose is to provide education, awareness, and policy change regarding the
-  therapeutic use of psilocybin.
+  therapeutic and clinical use of psilocybin.
 accordion: []
 meta:
   description: This is a meta description.
