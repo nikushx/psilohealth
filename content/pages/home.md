@@ -26,8 +26,7 @@ Psilocybin and its metabolite psilocin are serotonin 2A receptor (5-HT2AR) agoni
 The psychedelic experiences associated with psilocybin's 5-HT2AR activation have shown promising results for the treatment of a variety of indications. These indications include: 
 
 * Treatment-Resistant Depression, Major Depressive Disorder
-* General Anxiety Disorder
-  , Existential Anxiety 
+* General Anxiety Disorder, Existential Anxiety 
 * Post-Traumatic Stress Disorder (PTSD)
 * Opiate, Alcohol, and Tobacco Addiction
 * Obsessive Compulsive Disorder (OCD)
