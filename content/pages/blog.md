@@ -1,10 +1,13 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Blog
+featuredImage: 'https://ucarecdn.com/f51304fb-d8e8-4b91-8a70-55d37a550292/-/preview/'
+subtitle: >-
+  Stay up to date with psilocybin and psychedelic-inspired blog posts, articles,
+  and conversation pieces.
 meta:
   description: This is a meta description.
   title: Blog Page
 ---
+
