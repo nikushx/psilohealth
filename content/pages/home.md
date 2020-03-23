@@ -11,7 +11,7 @@ subtitle: >-
 accordion: []
 meta:
   description: Home Page
-  title: PsiloHealth™
+  title: Home Page
 ---
 # **What is Psilocybin?**
 
