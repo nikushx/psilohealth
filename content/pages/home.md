@@ -8,27 +8,31 @@ subtitle: >-
   A team of healthcare professionals, community leaders, and psychonauts whose
   purpose is to provide education, awareness, and policy change regarding the
   therapeutic use of psilocybin.
+accordion: []
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# **What is Psilocybin?**
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Psilocybin, the precursor to psilocin, is the psychoactive substance found in "magic" mushrooms. Both of these compounds produce psychedelic effects and are found within psilocybin mushrooms. 
 
-# Features
+Psychedelics (from the Greek, psyche: mind, delos: make visible, reveal) are substances that induce a heightened state of consciousness characterized by a hyperconnected and transpersonal state of being.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+There are over 200 different types of naturally grown psilocybin mushrooms, each varying in different ratios and strengths of psilocybin to psilocin, found all around the world.
 
-## Get started
+The history psilocybin mushrooms has been widely documented through many contexts. For a high level overview of the history of psilocybin, please click here.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Psilocybin and its metabolite psilocin are serotonin 2A receptor (5-HT2AR) agonists. The stimulation and occupancy of this receptor has been associated with documented psychedelic effects.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+The psychedelic experiences associated with psilocybin's 5-HT2AR activation have shown promising results for the treatment of a variety of indications. These indications include: 
+
+* Treatment-Resistant Depression, Major Depressive Disorder
+* General Anxiety Disorder, Existential Anxiety 
+* Post-Traumatic Stress Disorder (PTSD)
+* Opiate, Alcohol, and Tobacco Addiction
+* Obsessive Compulsive Disorder (OCD)
+* Cluster Headaches
+* Pain and Inflammation
+
+You can find more resources to these studies here.
