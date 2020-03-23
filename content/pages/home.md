@@ -19,7 +19,7 @@ Psilocybin, the precursor to psilocin, is the psychoactive substance found in "m
 
 Psychedelics (from the Greek, psyche: mind; delos: make visible, reveal) are substances that induce a heightened state of consciousness characterized by a hyperconnected and transpersonal state of being.
 
-There are over 200 different types of naturally grown psilocybin mushrooms, each varying in different ratios and strengths of psilocybin to psilocin, found all around the world. The history psilocybin mushrooms has been widely documented through many contexts. For a quick overview of the history of psilocybin, please click [here](https://www.psilohealth.co/posts/history-of-psilocybin/).
+There are over 200 different types of naturally grown psilocybin mushrooms, each varying in different ratios and strengths of psilocybin to psilocin, found all around the world. The history of psilocybin mushrooms has been widely documented through many contexts. For a quick overview of the history of psilocybin, please click [here](https://www.psilohealth.co/posts/history-of-psilocybin/).
 
 Psilocybin and its metabolite psilocin are serotonin 2A receptor (5-HT2AR) agonists. The stimulation and occupancy of this receptor has been associated with documented psychedelic effects.
 
