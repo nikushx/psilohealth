@@ -1,5 +1,5 @@
 ---
 template: BlogIndex
-title: For the Clinician
+title: Featured
 ---
 
