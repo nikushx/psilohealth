@@ -3,10 +3,7 @@ template: HomePage
 slug: ''
 title: PsiloHealth™
 featuredImage: 'https://ucarecdn.com/acdf0bf7-b990-44b8-8ad9-518917f8ad43/'
-subtitle: >-
-  A team of healthcare professionals, community leaders, and psychonauts whose
-  purpose is to provide education, awareness, and policy change regarding the
-  therapeutic and clinical use of psilocybin.
+subtitle: Advancing psilocybin therapeutics with equitable access at the forefront.
 accordion: []
 meta:
   description: ''
