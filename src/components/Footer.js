@@ -13,7 +13,19 @@ export default () => (
     {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter">
-        <FormSimpleAjax name="Landing Page Form" />
+        {/* <FormSimpleAjax name="Landing Page Form" /> */}
+        <form name="Landing Contact Form" method="POST" data-netlify="true">
+          <p>
+            <label>
+              Your Name: <input type="text" name="name" />
+            </label>
+          </p>
+          <p>
+            <label>
+              Your Email: <input type="email" name="email" />
+            </label>
+          </p>
+        </form>
 
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
