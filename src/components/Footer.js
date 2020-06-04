@@ -25,6 +25,9 @@ export default () => (
               Your Email: <input type="email" name="email" />
             </label>
           </p>
+          <p>
+            <button type="submit">Send</button>
+          </p>
         </form>
 
         <span>
