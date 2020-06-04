@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
 .Nav {
   background: white;
   position: sticky;
@@ -10,7 +12,8 @@
 .Nav--Container {
   display: flex;
   align-items: center;
-  height: 6rem;
+  justify-content: space-between; /* TODO: remove when we remove landing page */
+  height: 10vh;
 }
 
 .Nav--Links {
@@ -101,6 +104,13 @@
   display: block;
   position: relative;
   width: 15rem;
+}
+
+/*
+ * Custom Styles
+**/
+.spacer-nav {
+  margin-right: 1rem;
 }
 
 @media (max-width: 600px) {

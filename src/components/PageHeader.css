@@ -2,6 +2,7 @@
   background-color: var(--darkGrey);
   color: white;
   padding: 15rem 0;
+  height: 90vh;
 }
 
 .PageHeader .BackgroundImage {
@@ -15,9 +16,13 @@
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
+  line-height: 7.5rem;
+  max-width: 75%;
+  font-family: 'Playfair Display', serif;
 }
 
 .PageHeader--Subtitle {
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size: 1.8rem;
 }

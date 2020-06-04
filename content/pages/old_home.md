@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Reframing Mental Health Together.
+title: PsiloHealth™
 featuredImage: 'https://ucarecdn.com/acdf0bf7-b990-44b8-8ad9-518917f8ad43/'
-subtitle: Stay connected.
+subtitle: Advancing psilocybin therapeutics with equitable access at the forefront.
 accordion: []
 meta:
   description: ''
