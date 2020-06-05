@@ -1,7 +1,7 @@
 import React from 'react'
-import FormSimple from './FormSimple'
 // import InstagramFeed from './InstagramFeed'
 import './Footer.css'
+import LandingPageContactForm from './LandingPageContactForm'
 
 export default () => (
   <div>
@@ -13,11 +13,11 @@ export default () => (
     {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter">
-        <FormSimple name="Please Work" />
+        <LandingPageContactForm name="Landing Page Contant Us" />
 
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          <a href="https://nikushx.com/">Nikush Dalia</a>.
         </span>
       </div>
     </footer>
