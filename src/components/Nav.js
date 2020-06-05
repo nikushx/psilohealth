@@ -51,7 +51,7 @@ export class Navigation extends Component {
           </Link>
           {landing ? (
             <div className="Nav--Links">
-              <span className="spacer-nav">Educate</span>|
+              <span className="spacer-nav">Education</span>|
               <span className="spacer-nav">Legislation</span>|
               <span>Integration</span>
             </div>

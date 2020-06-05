@@ -1,5 +1,5 @@
 import React from 'react'
-import FormSimpleAjax from './FormSimpleAjax'
+import FormSimple from './FormSimple'
 // import InstagramFeed from './InstagramFeed'
 import './Footer.css'
 
@@ -13,22 +13,7 @@ export default () => (
     {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter">
-        {/* <FormSimpleAjax name="Landing Page Form" /> */}
-        <form name="Landing Contact Form" method="POST" data-netlify="true">
-          <p>
-            <label>
-              Your Name: <input type="text" name="name" />
-            </label>
-          </p>
-          <p>
-            <label>
-              Your Email: <input type="email" name="email" />
-            </label>
-          </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
-        </form>
+        <FormSimple name="Please Work" />
 
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
