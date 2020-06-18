@@ -2,8 +2,7 @@
 template: HomePage
 slug: ''
 title: Reframing Mental Health Together
-featuredImage: >-
-  https://ucarecdn.com/109d8412-4840-4e36-9413-a36f38666b5e/-/crop/2112x1301/0,83/-/preview/
+featuredImage: 'https://ucarecdn.com/dbad3212-06c0-440d-8d77-d5be44bec252/'
 subtitle: 'Sign up for exclusive content, industry updates, and special offers.'
 accordion: []
 meta:
