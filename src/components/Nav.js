@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Location } from '@reach/router'
 import { Link } from 'gatsby'
-import { Menu, X } from 'react-feather'
+// import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 
 import './Nav.css'
@@ -95,12 +95,12 @@ export class Navigation extends Component {
               <NavLink to="/contact/">Contact</NavLink>
             </div>
           )}
-          <button
+          {/* <button
             className="Button-blank Nav--MenuButton"
             onClick={this.handleMenuToggle}
           >
             {active ? <X /> : <Menu />}
-          </button>
+          </button> */}
         </div>
       </nav>
     )

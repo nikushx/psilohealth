@@ -13,6 +13,8 @@ export default () => (
     {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter">
+        <h3>Have some questions?</h3>
+
         <LandingPageContactForm name="Landing Page Contant Us" />
 
         <span>

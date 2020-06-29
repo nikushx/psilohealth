@@ -52,10 +52,6 @@ export default ({
     <input type="text" name="_gotcha" style={{ display: 'none' }} />
     {!!subject && <input type="hidden" name="subject" value={subject} />}
     <input type="hidden" name="form-name" value={name} />
-    <input
-      className="Button Form--SubmitButton"
-      type="submit"
-      value="Enquire"
-    />
+    <input className="Button Form--SubmitButton" type="submit" value="Submit" />
   </form>
 )

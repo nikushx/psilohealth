@@ -29,7 +29,7 @@ export default ({
     <input
       className="Button Form--SubmitButton"
       type="submit"
-      value="Enquire"
+      value="Sign up"
     />
   </form>
 )
